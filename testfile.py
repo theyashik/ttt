@@ -4,10 +4,14 @@ print ('hello')
 
 print ('lalala')
 
-hohoho
+#hohoho
+
+
 
 print ('333')
 
+import os
+os.system("ip a")
 
 
-666\777
+#666\777
