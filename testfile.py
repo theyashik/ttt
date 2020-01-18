@@ -7,9 +7,6 @@ print ('lalala')
 #hohoho
 
 
-
-print ('333')
-
 import os
 os.system("ip a")
 
